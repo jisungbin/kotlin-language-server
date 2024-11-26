@@ -7,7 +7,7 @@
 
 ## Notice and status
 
-This is fork of currently almost unmaintained upstream repo: https://github.com/fwcd/kotling-language-server
+This is fork of currently almost unmaintained upstream repo: https://github.com/fwcd/kotlin-language-server
 
 *This fork* is being maintained in developers' spare time. Our goal is to make this extension usable and feature complete. We *do not* aim for full feature parity with JetBrains ide's Kotlin support.
 
